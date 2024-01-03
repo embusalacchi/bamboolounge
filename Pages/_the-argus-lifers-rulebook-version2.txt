@@ -1,0 +1,1118 @@
+ 
+    "The light at the end of the tunnel is probably an oncoming train."
+ 
+_______________________________________________________________________________
+ 
+ 
+ 
+              -- The Argus Lifers Rulebook, Version 2.0 --
+ 
+ 
+_______________________________________________________________________________
+ 
+ 
+  "Your guide to everything that has been, is, and will be going on in Argus"
+ 
+ 
+                                         Written by: Luvblondi [Meem]
+                                                     meem@gnu.ai.mit.edu
+                                      Co-written by: Slaine [The Stranger]
+ 
+ 
+ 
+-------------------------------------------------------------------------------
+                              Genesis - History
+ 
+Version 1.0:   Written and completed by Luvblondi, meem@gnu.ai.mit.edu.
+               First additions while still in writing by Blackhawk and
+(20-Oct-91)    Netrunner, those founding fathers... (sing God Bless AmeriKKKa)
+ 
+Version 1.1:   Added in additions by Slaine, L'Etranger everywhere else (The
+               Stranger for those non-French speakers) in format, did some
+(27-Oct-91)    spell checking.
+ 
+Version 1.2:   Minor corrections, spell checked (thankfully) -- did not fix
+               "random capitalization" problems. Thanks to Mikado for spell
+(28-Oct-91)    checking it for me.
+ 
+Version 1.3:   Mods made from numerous users, generally improving the look
+               and feel of the file. Major additions by Slaine once again,
+(30-Oct-91)    along with modifications from myself. Re-spell checked by Poole
+               and numerous more errors were caught.
+ 
+Version 1.4:   New stuff added in, including 5.03 sub-sections, by someone who
+               has chosen to remain anonymous (but you're loved anyway). More
+(01-Nov-91)    contribs by Slaine, and a few more grammatical errors fixed.
+               Because 2.XX and 10.XX were getting intertwined, I reformatted
+               them.
+ 
+Version 1.4u:  An update of 1.4, corrected almost every grammatical and
+               spelling error in the file (never say every). Carefully
+(05-Nov-91)    researched to make fluent sense. A transitional edition between
+               1.4 and 2.0, this file was basically made because I can't
+               stand errors all over my file. Came closer to fixing
+               confusing "is it we that wrote it or is it I that wrote it"
+               problem which plagues this file.
+ 
+Version 2.0:   For now, be-all-and-end-all version. I have added a number
+               of things, although I could not think of much that needed to be
+(08-Mar-92)    revised and/or changed. Added an "Argus Slang" section. I
+               renamed it to:
+ 
+               "The Argus Lifers Rulebook , Version 2.0"
+ 
+               If anything new on the Argus front breaks, you can be sure Meem
+               will be here to cover the action play-by-play. This version was
+               a long time in the making for five (5) reasons:
+ 
+               (a) Valiant attempt at having a life killed most free time.
+               (b) There wasn't a great deal to add.
+               (c) I'm a lazy fool who didn't feel like spending time writing
+                   a file.
+               (d) I was embarrassed that since this release took so long,
+                   people would expect something of it.
+               (e) School was there and I was with it too much of the time.
+ 
+-------------------------------------------------------------------------------
+DISCLAIMER:  If you don't like reading about yourself, or think this was
+             written because I'm out to get you, STOP here. This was written
+             with a sarcastic flair and should be interpreted with such. It's
+             meant to reveal the truth, not to change it. I spared no one from
+             being insulted, including myself.
+ 
+THANKS TO:   Coca-Cola, Hostess Company, Pringles, Jolt, Metallica, Aerosmith,
+             Van Halen, Megadeth, Godflesh, Ozzy Osbourne, and numerous other
+             bits of music and food that made this possible. Thanks to all the
+             above parties mentioned as improving each of the above respective
+             versions, especially Slaine for all his insight. Although the
+             number of people who have contributed to this file is too long
+             for a "THANKS TO:", I thank all of you for your input.
+ 
+UPDATES:     Send all updates and new information to: Luvblondi at Argus, or
+             meem@gnu.ai.mit.edu. If you want to receive new versions of "The
+             Argus Lifers Rulebook", then please send me mail at Argus
+             or via Internet.
+ 
+MAILING:     If you would like the "The Argus Lifers Rulebook" mailed to
+             your personal e-mail dropsite, please inform me, and I will add
+             you to "the list". After receiving it, it would be appreciated
+             if you deleted the message containing the file or forwarded it
+             to a friend. This is because it ties up lots of Argus disk space
+             to have about 100 copies of a 65K file out there, and I don't want
+
+             Argus Administation on my back. I encourage you to share this file
+             with anyone you think might enjoy it.
+ 
+ONLINE COPY: You can find the most recent "The Argus Lifers Rulebook" in
+             the /COMEDY SIG.
+ 
+CORRECTIONS: If you find any spelling errors, typos, and/or grammatical errors
+             in the following file, please point them out. This has been worked
+             on extensively to be well written, and informative. If you find
+             any imperfections in the document, things I could have added, or
+             anything else, send me your comments and ideas via Argus or
+             Internet as well. This file can only continue to prosper with your
+             help.
+ 
+   ARGUS     Argus is located in Lexington, MA, in the [617] area code. It
+             runs on "The Major BBS" BBS software, and supports 57 lines, on
+COMPUTERIZED which 300, 1200, and 2400 bps, sometimes even with MNP is
+             supported. All of this is run off of a 486 33 MHz EISA machine
+  EXCHANGE:  with a 1.36 Gigabyte SCSI II hard drive. It has been up since
+             around April 1989, and I have infested it since June 24th, 1989.
+             Even though it's free to the user, one can deal, I suppose. If you
+             would actually wish to call Argus Computerized Exchange, dial:
+ 
+             617-674-2345      (Hunt for lines 1-57)
+             617-674-2359      CBC (Computer Based Communications) help line
+ 
+ ARGUS LINE To get on any Argus line you want (if it's open) you can do the
+            following: Take the argus line number you want and add 15 to it.
+  FORMULA:  Keep that number in mind, then dial "674-27" followed by it.
+ 
+-------------------------------------------------------------------------------
+        Suggested uses for the document you have in your possession now
+                [ Tallied up from my own private uses of it ]
+-------------------------------------------------------------------------------
+ 
+1) Use to keep beverages on to avoid creating cup-rings on tables.
+2) Find all the spelling errors, inconsistencies and typos.
+3) Hand out to all new users for a list of upcoming Argus pleasures they get to
+   enjoy and live through.
+4) Make it into wallpaper to show off to all your friends.
+5) Low usage of 4-syllable words makes it a great gift for functional
+   illiterates!
+6) Leave it lying around the office with "RAUNCHY SEX TALE" scribbled in crayon
+   on top sheet.
+7) Use it as a makeshift diaper for brother who has the "runs".
+8) Hand it in as a creative essay, each time to a different teacher.
+9) Tear up into little pieces all over room to give cleaning people something
+   to do.
+ 
+------------------------------------------------------------------------------
+ 
+                     --  The Argus Lifers Rulebook --
+ 
+ 
+1.00  Computer Insults: Related comments to the superiority of one piece of
+      technology over another. These comments are usually made by users who
+      are looking for an ego boost, and/or are inflicting an ego boost upon
+      other users of their clan.
+ 
+  1.01: Computers: Often in the Animal House people with good computers must
+        announce it to everyone else in the channel. This will, without
+        exception, start a computer war. Another easy way to start one is to
+        mention software (i.e. "I got LSL III TODAY! IT RULZ!"). Each computer
+        seems to draw its own set personality of users, here are some of the
+        more common ones:
+ 
+ 
+           Amiga: Believe that their machine is superior to any other on the
+                  market today, and that everyone should own an Amiga.
+                  Seventy percent of the people who own them start wars
+                  involving them JUST TO PROVE how "superior" a machine it is.
+ 
+           Apple: Have the basic "We know it sucks, but it's the best we can do
+                  for the money" syndrome. This computer is the one that
+                  usually gets ragged on the most. Often cited for its MHz
+                  rates as a "Slowness to be compared to" or in the IIe's case,
+                  being "obsolete".
+ 
+      Atari ST's: These people are usually quiet, choosing neither to hide
+                  or immaculate their computers. Occasionally a battle occurs
+                  when drawn into conflict with Amiga users who deem their
+                  computers much too high even to be considered in the same
+                  class of the Atari ST's. There's usually bloodshed, and it
+                  is well advised that you run for it whenever such a war
+                  breaks out.
+ 
+Commodore 64/128: Have an attitude very like that of Apple users. They are well
+                  aware of their computer's lack of power. Thankfully, a very
+                  popular following in its younger days prevents most people
+                  from yelling about how it was a "lame" computer. Most users
+                  use the fact that they own one as their "excuse" for not
+                  being able to type. Researchers have proven that the
+                  Commodore 64 keyboard is in fact, detrimental to good typing
+                  skills. Unless fingers are at least six inches long and
+                  thickly calloused, you run the risk of breaking your hands
+                  even utilizing the simplest vocabulary.
+ 
+             IBM: The most common computer found on Argus, by a longshot. There
+                  are many different types of IBM users, hence it's hard to
+                  lump them in. Generally, they are proud of their investment,
+                  but won't announce it to the whole world. (EXCEPTION: Most
+                  users with VGA or higher graphics modes, a bigger than 50 meg
+                  hard drive, and/or 386 or higher, tend to have an Amiga flair
+                  to them.)
+ 
+       Macintosh: Ninety percent of these people think they must announce that
+                  they own a "Mac". They vary from Amiga users in that they
+                  feel they must include it in their handle to prove how proud
+                  they are of their investment. Usually they don't brag much
+                  about their machines once they are online. (Probably because
+                  every time they say something, they advertise for their
+                  glorious machine.)
+ 
+    Macintosh II: These users seem to be a dreaded hybrid of the Amiga and
+                  Mac SE/512 users, blending all their bad qualities into
+                  a swooping pit of advertising, showing off the power of
+                  their machine, while having a handle containing its "pet
+                  name" for further bestowed glory.
+ 
+ Misc. Computers: Most of the owners of ancient "older than the crust on your
+                  underwear" computers tend to keep quiet. The Timex Sinclair,
+                  TRaSh-80 and CoCo owners all huddle into a quivering mass
+                  in the corner of the Animal House, speaking a language which
+                  only they share. It should be strongly suggested that you
+                  avoid them like the proverbial plague.
+ 
+  1.02: Modems: Another thing of common debate is a user's modem. Often users
+        find it necessary to rag on people's bps rate. Before we go any
+        further, it is needed to be known that if you own a 2400 bps modem,
+        and are ragging on people for owning a 300, that's pretty lame, because
+        2400 was state-of-the-art four years ago. Anyway, the common rates are
+        2400 and 1200 bps. There is very little 1200 and 2400 bps bashing,
+        and some users (Usually the ones who type like "!!!1!!!!1!!!") find
+        it important for them to ANNOUNCE what bps they are at in the middle
+        of the Animal House. Also, many users who have faster than 2400 bps
+        modems like to run INIT checks on them while online just to show how
+        superior a technological device they own.
+ 
+  1.03: Keyboards: Many users find it compelling to annoy any users who can't
+        type fast, or who have broken keyboards. One must keep in mind that
+        this is considered "Bad taste" even for people in the Animal House.
+        Also, some "Uzers" find it vital for you to know how many keys are on
+        their keyboard. Usually after keyboard counts, it becomes essential for
+        users to run off a test of their typing prowess on the keyboard, typing
+        keys in alphabetical order, hitting return after each letter.
+ 
+ 
+2.00  Typing Mentalities: This means the style in which someone generally types
+      when on Argus. This varies greatly depending on the user, the mood
+      he or she is in, and the speed and proficiency of one's typing. This is
+      distinguished (although there may be some overlap) from section 10.00,
+      User Mentalities, because this discusses the way a user types or the
+      things a user types, rather than his/her/its actual character.
+ 
+  2.01: "Z" People: Most commonly referred to as "Z" people, these are the
+        wanna-be "WAReZ" d00ds that infest Argus. According to them, the
+        letter "S" does not exist. Everything that can, will be spelled with a
+        Z. Along these same lines, there are users who use 0's instead of o's,
+        o's instead of 0's, users who type in "MiXeD CasE" and users who use
+        "X" instead of "CKS" endings on words. (And this is by no means a
+        comprehensive list.) Common sentence:
+ 
+        "From Warezdood: Hiyaz all! Call the WEZ g0Tz WAreZs Up uR buTz BBS,
+                         24oo 0nly, ElYte Uzers Quik Validati0nz!"
+ 
+            2.01a: Often Warezdoods will start up the conversation about
+                   warezZZz just so the usual debate can ensue. Occasionally
+                   though, they may lie idly around the Animal House, playing
+                   with themselves until provoked.
+ 
+            2.01b: You will occasionally see what is called in the trade as
+                   "warezZZzbaYte", which baits the "warezd00dz" from hiding.
+                   Once the appropriate warezZz-call has been sent, i.e.:
+                   "Dewdz, gut sum neu wareZzzzZZZ!!!!!!!!!!...!!!!", and the
+                   prospective d00d flushed out, commence to circumcising the
+                   peon online and watch its ego deflate minus five PSI.
+ 
+  2.02: The Exclamation Gang: This class finds it necessary for everything
+        they write to have millions of !'s after them. This is considered
+        very crude. Also, these same people find it impossible to "grip" the
+        shift key while pressing the [1] key, resulting in this being a
+        common message:
+ 
+        "From Ldyblu: HI NET!!!!!!!111!!1!!11!!!!!!!!!1!!!!!!!!!!!!!!!!!1!!!"
+         [Truncated for space-saving measures]
+ 
+    RELATED NOTE: After many years of research, people have confined the
+                  majority of the exclamation gang into an area known as the
+                  /NATURE SIG. Here, other punctuation epileptics gather and
+                  preen in some bizarre mating ritual, staccatoing their
+                  'sentences' with other forms of punctuation in addition to
+                  the exclamations. Periods and question marks are also being
+                  abused in this manner. Sadly, not even 40 punctuation marks
+                  for every letter can help the typical user understand just
+                  what is so exciting, puzzling, or declarative in this SIG.
+ 
+  2.03: Abbreviators anonymous: This is the most popular "cult typing style"
+        found on Argus. In this style, everything conceivable is abbreviated.
+        (i.e. "R" for "Are" 4 for "For", 8 for "Ate") 4 xampl:
+ 
+        "From Staci: Oh I luv this song 2! OH mi god!!!!!!11! R u ok Jolly?"
+ 
+  2.04: Indecisive users: These users really can't decide what style they want
+        so they end up an odd blend of cultural classics, often using "u" one
+        moment, "you" the next, "R" one moment, and "are" the next. A good
+        example of this torturous and perterbing style can often be located in
+        private channels with users who have "*  /P  4 /I  *" (where
+        *=Wildcard) in their channel topics.
+ 
+  2.05: Macro-Users: This class of people are generally bored, and/or just
+        trying to attract attention. Most commonly, macros will be run in
+        the Animal House just to get attention. Sometimes they are ads for
+        something someone is trying to sell, or some BBS that wants callers
+        or users.
+ 
+  2.06: "Spell-Right" Users: To give the impression of some form of "human"
+        intelligence, a cult group (of which I am a member) has taken up the
+        habit of actually trying to spell correctly. This until now unheard
+        of Argus style is starting to gain momentum. Spell-Right users tend
+        to be very protective of their spelling errors, refusing to look up
+        words in the dictionary that might prove their contorted spelling's
+        incorrect.
+ 
+  2.07: Action-Only Users: These users logon to Argus just to type the action
+        commands. Like some strange cult, they usually log on and off all at
+        once. Mainly while online they keep quiet, only occasionally bursting
+        out with a new batch of actions. These actions are usually sexual
+        towards the few babes there are on Argus, and it has been proven that
+        these users get almost orgasmic through their furious spewing of
+        actions.
+ 
+  2.08: The Singing Users: A strange breed. They call Argus, enter the
+        the Animal House, then proceed to "sing" lyrics incessantly. They are
+        very involved in their work, not responding to anyone who addresses
+        them, typing their little hearts out. Prepubescent users of the
+        feminine persuasion have been tagged and known to inhabit this
+        territory solely. For what purpose? It has this grizzled Argus veteran
+        shaking his head as well. After the first few quotes of the latest
+        Bryan Adams, Nelson, Poison song (ad nauseam) they are "forgotten" by
+        most other users, except other singing users, with whom they compare
+        notes on whether it's "this word, because it sounds like that word".
+ 
+  2.09: The Caps-Lock Gang: These users are evidently incapable of finding
+        the key marked CAPS LOCK, hence they sit around typing in capital
+        letters constantly. These users tend to be wanna-be Argus Rebels, as
+        they do their best to bash on everyone, while misspelling profusely.
+        When the inept user's next message appeared sans CAPS, it brings the
+        crowd to its collective feet. Some people wonder why using
+        all capitals is annoying, the reason is that it blinds and becomes
+        frustrating to read these messages, especially when more of the
+        CAPS Gang is in attendance. One should be wary of the day when a
+        CAPS-user  and a Singing-user breed to create a hybrid, the
+        Singing/CAPSLOCK-user. References have been found to this mythical
+        beast in the Book of Revelations, 13:1. (Serious. Read it.)
+ 
+ 
+3.00  User-Bashing: This is one of the most popular things to do on Argus and
+      even so is difficult to define. Here are some general categories to go on
+      though:
+ 
+  3.01: Insults relating to one's mother, one's race, religion, and so on.
+        This is pretty boring and tedious and usually just done by some
+        wanna-be Argus Rebel trying hopelessly to attract attention.
+ 
+  3.02: Insults relating to someone's personal appearance (usually referenced
+        from a "geek-meet" (Argus get-together)). Usually ends up in a major
+        war, most often ending in someone saying that he/she/it did something
+        to the other one's respective parent the night before and it was
+        "great".
+ 
+  3.03: Insults relating to one's current intelligence or lack of it. This
+        one comes up the most, and generally happens after one user with a lot
+        on one's mind gets annoyed by another user (even unintentionally)
+        and gets pissed off. A little more intellectual than above, but not
+        as enjoyable.
+ 
+USERS TO WATCH FOR: When user-bashing is done well, it can be a thing of
+                    beauty. Users Ttrgrmmtn, Luvblondi (Initial author of this
+                    phile), Slaine (Major Contributor to this phile) and
+                    Netrunner are the ones to watch. The way they stalk bovinic
+                    unsuspecting users with such fluid grace makes this
+                    Argus-voyeur one happy camper. But, sadly enough, the prey
+                    are a bit too dim-witted to understand what exactly has
+                    just transpired, and are usually left to wander harmlessly.
+                    It is considered rude to "forget" them, unless they enact a
+                    macro-frenzy and fill up the scroll with (repeated) babble.
+ 
+  3.04: Insults relating to one's sexual powers: Usually one of the most primal
+        sorts of arguments, although that doesn't detract from the humor
+        factor. When a user who is in the (13-25) age range is insulted by
+        another user also in the (13-25) age range, a sexual potency contest
+        usually develops. Flying through the air with such ease and grace, some
+        of the more award winning lines are thrown by "Slayer", we suggest you
+        watch his online abilities in this department.
+ 
+ 
+4.00  Chat-Related Side-Topics: Let's face it, chats are a part of everyday
+      Argus life when people actually want to talk, instead of incessantly
+      saying "Hey" "Bye" "R     e" and "AFK" to each other. Chats tend to range
+      wildly from the passionate to the combative to _almost_ standard human
+      behavior. (I *STRESS* almost)
+ 
+  4.01: Chat Warring: The ultimate geek macho sport! Come one, come all, see
+        who the dork is with the best term program! Yes, it's the ever popular
+        Chat Warring! Well, it is good for getting rid of annoying users. It
+        this tends to pass in fads for some unexplained reason.
+        There are four main forms of chat warring, they are:
+ 
+             4.01a: "^H" Chat Warring: Done by overloading Argus's buffer with
+                    the delete key, by using a macro. More effective than
+                    other methods, but often not liked by the olden day chat
+                    warrior.
+ 
+             4.01b: "-" Chat Warring: Done by overloading Argus's buffer with
+                    the "-" character, by using a macro. Not as effective as
+                    ^H, but the first form of chat warring.
+ 
+             4.01c: Variable Rate Chat Warring: Sometimes 1200 bps will take
+                    on 2400 bps, and what have you, creating a "variable rate
+                    chat war". Unless the slower speeds macro kicks all butt,
+                    it is very rare to see a fair battle.
+ 
+             4.01d: Same Rate Chat Warring: Much more common, preferred. A
+                    1200 vs. 1200 or a 2400 vs. 2400, like they are classes
+                    fighting each other, each with their massive and potent
+                    medal-winning leaders.
+ 
+  4.02: "Hot Chatting": This is an occasionally popular form of "Computer Sex"
+        where two users go into chat together and get each other off. It's
+        pretty stupid in general, but none-the-less an Argus hobby for some.
+        Please note that this is known in the trade as "Chatsturbation".
+ 
+USERS TO WATCH FOR: It has come to my attention that while 'hot chatting'
+                    is only a step up (or below) 900 phone sex numbers, a few
+                    users deserve merit for exhibiting carnal prowess on the
+                    keyboard. Badgirl and Bann are hereby given status as
+                    Argus-Nymphomaniacs, deserving all the laurels bestowed
+                    upon them by their flocking male-harems. The Argus-virgin
+                    is advised to ask Badgirl to relate her 'Trunk' story, and
+                    hold on for the ride.
+ 
+             4.02a: Sexually-deprived male chat: These are the majority of
+                    chats. It usually involves the male saying quick bursts
+                    of "sexually stimulating" commentary like the ever
+                    popular "Ripping off your clothes and shoving it in".
+                    Wow, a real thrill-a-minute. Women who are not repulsed
+                    by this and are sexually deprived themselves just add the
+                    occasional "Oh Baby, oh baby. It's SOOO big".
+ 
+             4.02b: The Fireside Chat: Some chats involve adventuresome males.
+                    These few are the ones who seduce women slowly, and tend to
+                    stay with the same woman for a while instead of doing them
+                    all at once. In chat they usually set scenery and it
+                    becomes more like reading a romance novel. Once they have
+                    seduced their female, phrases like "quivering velvet" and
+                    "love muscle" abound in a rampant fury of sexual desire.
+ 
+                    PLEASE SEE: Females, if you wish to have some effective
+                                male disposal methods, see the end of this file
+                                for a rather comprehensive listing.
+ 
+  4.03: Regular Chatting: People who just like to talk about each other,
+        or just need someone to talk to. Although you would expect this to be
+        the most common form of Argus chatting, this is evidently not the case.
+ 
+  4.04: Password Stealing:  Often users are dragged into chat so the other user
+        can perform a fake "system failure" so the user must wait and the
+        system pseudo-resets within chat. A buffer of a fake Argus logon screen
+        appears, and the user types in their username and password. Good in
+        taking away the Argus idiots.
+ 
+ 
+5.00  Sexual Related topics: Created by those wild, horny nerds that inhabit
+      Argus is such abundance. This is just a sampler of the plentiful desires
+      and wanton lusts that fill Argus to the brim:
+ 
+  5.01: Gay-Bashing: Often many users find it necessary to go off on peoples'
+        sexual orientation for no particular reason. Usually, they're /f'ed
+        within a few minutes. On rare occasions, they stop.
+ 
+  5.02: Usual Flirtations: Forty percent of Argus scroll is taken up by
+        kisses, hugs, nibblings, and all other sexual actions. Usually this is
+        started by the male genre and "echoed" by the female species.
+        Sometimes fun, but often annoying.
+ 
+  5.03: Argus Studs: Among a crowd of 57 people, there are always a few who
+        choose to inform the Animal House of their lovetool which was bestowed
+        upon them by their parents. When one fool starts, others crawl,
+        hobble and stumble out of cyberkinetic holes into Argus the Animal
+        House, hoping to find some Argus babe who is impressed by their
+        supposed sexual clout.
+ 
+  5.04: Pestering Flirtations: These are macros made just to try to online
+        "rape" an Argus geek-ette (God knows why) -- These users are close
+        to the bottom of the barrel, and are usually found on Friday or
+        Saturday nights, when even most geeks can find a life. It saddens my
+        lascivious heart to see some Argusphytes even changing their entry or
+        exit messages to read something like:
+ 
+        "Dogboy enters looking for Medusa."
+ 
+        These users pout and sob when their favorite Argusette is not online,
+        and leave with the equally pathetic:
+ 
+        "Dogboy leaves not having found Medusa."
+ 
+             5.04a: The married user who utilizes modern technology in his
+                    eager attempts to get some action on the side by
+                    propositioning apparently female users. (See section 10.10
+                    to clarify why the word 'apparently' was chosen)
+ 
+USERS TO WATCH FOR: Scorpio sets the standard in this category. His unabashed
+                    advances on many innocent female (and transvestites
+                    who are not so innocent) users, has been brought to the
+                    researchers attention. Apparently, Scorp's massive libido
+                    and zest for licentious affairs has led him to Argus, land
+                    of milk and honey, much like a moth to a flame. But, sadly,
+                    if his wife, mired in wedded bliss, were ever to hear of
+                    his 'affairs', his phone line might not be the only thing
+                    cut off.
+ 
+             5.04b: The user who pages or whispers to 'female' users
+                    incessantly with the ever-popular "Hiya gorgeous!!!!!!!!",
+                    but never has anything else to say. The researchers of this
+                    guide are collecting more data as to why someone who has
+                    never seen you, would call you "gorgeous", "babe", or any
+                    other number of flattering compliments. It has been
+                    attributed to another side-effect of the male sex glands.
+                    These users will typically get offended when ignored after
+                    their initial burst of platitudes. These users could save
+                    themselves some time and brain cells by putting their
+                    "witty" comments in macro-format and resending them to
+                    every available Argusette.
+ 
+             5.04c: The Hot-Chat Addict: Usually these folk let you know
+                    what they want fairly quickly, an indication of their
+                    sexual stamina no doubt, and stop pestering you after one
+                    or two rejections. These users who believe in opening
+                    conversations as "What are you wearing?", must be the same
+                    ones who in real life have clever things to say to women
+                    like "Where did you get those legs?" -- questions that can
+                    strike even the most voluble female dumb with their
+                    witlessness.
+ 
+             5.04d: The Perverts: Really, I mean, I've heard about sexual
+                    reorientation, but these people need help. I'm referring to
+                    men on Argus (adults) who decide to prey on teenage boys.
+                    They usually start off whispering "Do you like the taste of
+                    head?". If you choose not to answer, no need, they will
+                    continue for you, assuming that no news is good news.
+                    Luckily, most are easy to spot and can be picked off at the
+                    root. Once the peon has been spotted by the channel as a
+                    whole, the rest of the channel usually degrades itself to
+                    discussing their sexual equipment to impress the female
+                    geeks.
+ 
+  5.05: The Orgy Channels: These used to run more rampant in the olden days,
+        but occasionally one will be cited. In here, the leader is usually a
+        sexually stunted or deprived female who starts the channel with up to a
+        half a dozen other males. (6:1 ratio) The female will spout sexual
+        provocations at the males, hoping to work them up into an online
+        orgasm, which is usually indicated by a long string of line noise. When
+        you have six males and one female, a lot of times it gets confusing,
+        with two or three males trying to fill the same hole on the female.
+        This impossibility usually goes unnoticed in the moments of sexual
+        frenzy produced by the sexy feminine pixels landing on the male's
+        screen.
+ 
+             5.05a: The "Real" Men: These are the men who frequent the orgy
+                    channels. They spend most of their time trying to get some
+                    "new and unexperienced" female user into chat and seduce
+                    them before they know what happens. When this fails, they
+                    seek out old users, and bug them with inneundos in whispers
+                    till they are '/f'ed'
+ 
+             5.05b: Teens: Male teens who usually have 'Sex, girls, and
+                    parties' written all over their registries. Usually trying
+                    to get some poor woman or female teen to hot-chat them.
+                    Just your usual sexually-repressed teen.
+ 
+             5.05c: The Teasers: These are usually females who use 'actions'
+                    and flirt in whispers, taunting others. They go for usually
+                    three to four males at a time in the Animal House, not
+                    really hotchatting, but being flirtatous enough to keep the
+                    male's interest.
+ 
+                    WARNING: These are often deprived males impersonating
+                             females for odd sexual pleasure. Please stay aware
+                             of this "Teaser Rule".
+ 
+ 
+6.00  Line Noise: One of the more interesting elements of Argus Computerized
+      Exchange is the fact that it takes place over the public phone lines,
+      hence it often falls victim to what is known as "line noise":
+ 
+  6.01: Real Line Noise: Honest-to-God line noise. Little glitches of noise in
+        your telephone connection creating a "burp" of random characters to
+        appear on your screen. Easily recognizable.
+ 
+  6.02: C/W Line Noise: This is the line noise that appears right before a user
+        will get cut off with Call Waiting. It's often a short "burp" then a
+        "NO CARRIER" flag followed by the user vanishing dramatically from the
+        system.
+ 
+  6.03: Equipment Failure Line Noise: If Argus's equipment is in some way
+        failing on a given day, it's not rare to have Argus create line noise
+        from its Galactiboxes. It happens in the summer more than anytime else,
+        probably due to heat. Sometimes, phone lines are bad or "cracked" and
+        create constant streams of line noise. Solar flares and hovering UFOs
+        have been linked to Argus line noise problems.
+ 
+  6.04: Fake Line Noise: This is usually created by a user for attention. It is
+        noticeably fake unless it has been carefully crafted to follow the
+        standard line noise form. Sometimes the easiest way to get "fake" line
+        noise is to produce it via 6.05.
+ 
+  6.05: "Picking Up" The Phone Line Noise: This line noise is created by either
+        the user, or someone else in his house picking up the phone, creating
+        varying amounts of line noise depending what else is going on that the
+        phone's receiver may hear.
+ 
+  6.06: Using LN for Phun and Profit: This is an ingenious way to get out of
+        those spots when you don't want to look like an ass by just saying, "I
+        have to leave now, bye." You can do the above example, then use a NO
+        CARRIER macro, and hang up without offending the user whom you are
+        trying to avoid. Taking a flat hand and mushing it against the keyboard
+        is also a great way of simulating line noise.
+ 
+ 
+7.00  Argus Jokesters: This section encompasses the evil tricks which those
+      "ever-so-nutty" Argus folk employ upon each other to the great dismay of
+      the rest of the channel.
+ 
+  7.01: Standard Fakes: Fake messages are the messages that aren't sent by the
+        username it says, but from another user in the channel. This is done by
+        spacing over perfectly so the "***" and "From (username):" come out
+        ending up on the first column of a new line. Example:
+ 
+>From Meemness: This is a fake                (Spacing over)
+***   (This added for realism)               (Spacing over)
+>From Bloorf: Well yes, I do love you honey.  (End of fake.)
+ 
+  7.02: Fake Actions: Exactly the same except ACTIONS that people fake.
+        Often these are made up raunchy actions done by desparate users in a
+        rampant fit to try to rape a female user online.
+ 
+  7.03: Fake Sysop Messages: Some of the more humourous fakes. Usually these
+        users have authority complexes and think they are Sysop. Also this is
+        done to try to scare unsuspecting Argus bait. Often, though, users who
+        do Sysop fakes once too often get suspended from Argus, to the great
+        glory of Argus Administratia.
+ 
+  7.04: Fake Whispers: One of the easiest fakes to perform. It's still a
+        favorite, especially with new users. Just simply add a (whispered): at
+        the beginning of one of your normal messages, and see how many users
+        you whisper "Huh?" back at you. One of the best lines to use is:
+        "(whispered): I think I'm going to have to expose my romantic
+        interest in you, I can't hold back my sexual desires for your every
+        curve anymore."
+ 
+ 
+8.00  Music sucks or rules, TV sucks or rules: Basic media arguments, debating
+      over which is the best and which, according to Argus, "Suck cock."
+ 
+  8.01: Music Sucks or Rules: The Argus Animal House seems fascinated with the
+       idea of arguing over mindless and opinionated topics. For example?
+       Music. Here are some common wars:
+ 
+            8.01a: Certain type of music sucks or rules: Usually the following
+                   types: pop, rock and roll, metal, hard rock, alternative,
+                   thrash, ska, country or rap. This often involves two musical
+                   extremists, visciously battling it out in the Animal House.
+ 
+            8.01b: Certain band sucks or rules: These arguments are usually
+                   fought out between two or more users who share common music
+                   "type" tastes, but do not agree on a certain band or group.
+ 
+            8.01c: Certain musical player sucks or rules: with the exception of
+                   solo players, this war is usually fought between a certain
+                   member of the band sucking or ruling. This usually revolves
+                   in some remote fascination with the person, i.e. Marky
+                   Mark's infamous chest.
+ 
+            8.01d: A certain song sucks or rules: Usually fought out between
+                   either people involved in parts 8.01a, or 8.01b. The most
+                   pathetic form of Argus musical debate by far, as it matters
+                   not, and lasts forever.
+ 
+  8.02: Movie Sucks or Rules: Second most common form of media-related
+        arguments on Argus Computerized Exchange. Often users will take sides
+        and start up on this one. Everyone participates, for even if they have
+        not themselves seen it, they will go on "trusted friends'" opinions.
+ 
+  8.03: Radio Station Sucks or Rules: Often late at night this one comes up, or
+        if someone goes "GREAT SONG ON BCN!!!!!!!1!!1!!". This form generally
+        is the starting cue for all the parts of 8.01, for they work
+        hand-in-hand.
+ 
+  8.04: TV show or TV station, Network Sucks or Rules: These come up just often
+        enough to validate their own category. Usually, these are provoked by
+        some user pointing out a certain program that is on a certain station,
+        or someone talking about how much a certain show rules.
+ 
+  8.05: Car Sucks or Rules: Although this doesn't really fit in this category,
+        for lack of a better place to put it, it's here. Basically this starts
+        when a user mentions how awesome his car is and all, and then the next
+        user will say that his is better. Usually this is fought between the
+        rebellious users who are bored and have nothing else to do except talk
+        about their possessions.  We all know that seeing is believing. While
+        many Argusspawn do own vehicles, most are not roadworthy to any certain
+        extent, and sit rotting in their driveways, forever promising to "fix
+        that puppy up and take her for a spin".
+ 
+ USERS TO WATCH FOR: One contributor to this file has seen a certain user named
+                     Reall in action on the highways and biways of this great
+                     nation. Avoid at all costs. While she is most certainly
+                     not a bad driver, her motto is "Drive Offensively -- Early
+                     and Often."
+ 
+9.00: Argus geeks talk about Drugs and Alcohol: How many times has this
+      happened to you? You're online and sitting there peacefully, when, all
+      of a sudden, a pot-head walks into the Animal House, telling you "Man
+      I'm sooooo high I love you man WEED rulZ man!" Yes, it affects
+      all of our Argus lives to some degree. Here are some common
+      sub-categories:
+ 
+  9.01: Debating Drugs: Debating over whether drugs are good or bad, and
+        beer and/or alcohol in general is good or bad. This argument can
+        lead into section 3, but in general people start talking about their
+        past drug experiences and highlights.
+ 
+  9.02: Debating Kinds: Debating between users or drinkers over which type
+        of drug or beer is the best. This "highly intellectual" conversation is
+        usually started by someone pointing out that they're "SOOOOOOO HIGH..".
+ 
+  9.03: Drunk and/or Stoned Users: This usually creates a commotion
+        within itself as the user boasts just how much of a drinker or drug
+        user he is and how wasted he is. Sad. Usually this user will attempt
+        to chat with any or all females in the House, or beckon them to his
+        private channel with the crass, "HEY BABE! SUCK MY UNIT!!!!!!!!!"
+        While this masculine posing may work in the real world, Argusettes
+        are known for their insightfulness, and sidestep these users like
+        dog-muck.
+ 
+10.00: User Mentalities: This is one of the most important and hard to
+       understand categories, because it explains why Argus acts like Argus.
+       This section is not to be confused with 2.XX, because this deals with
+       the underlying attitude and mind of the user, not what he/she/it types,
+       although the two are often closely related. There are literally
+       thousands of possible blends, but here are some of the more popular
+       ones:
+ 
+ 10.01: Standard Geeks: Your standard everyday Argus dork. What do you expect,
+        it IS Argus and it will hone its share. Surprisingly, the true dweebs
+        sit very quietly and sulk in misery during their online hours.
+ 
+ 10.02: Argus Elite: These are the people that hate the people that are in
+        Animal, and claim they are inferior and "icky." they very rarely
+        descend into the Animal House from their high perches atop their
+        private channels.
+ 
+ 10.03: Sex-Crazed Perverts: The second most popular form of Argus life:
+        There's nothing worse than a horny geek. These people logon trying to
+        snag the Animal House babes, (God knows why) and basically make the
+        whole channel into flaming pit of profanities. Example:
+ 
+>From Pussyesser: I WANT SOME PUSSY! PUSSY! PUSSY! PUSSY! I NEED SOME NOW! (etc)
+ 
+ 10.04: Argus Rebels: These are the people who logon to Argus just to tell you
+        how much you suck, how much they hate geeks, how badly they could kick
+        your ass and how superior they are to you. You learn to ignore these
+        people after a while. Most of them are wanna-be geeks.
+ 
+ 10.05: Just "getting into" Computers: This class of users sometimes has the
+        most pleasant ones to talk to. They don't claim to know everything,
+        like the rest of Argus, and its ego. Sometimes though, these users
+        are annoying or turn into a 10.04.
+ 
+ 10.06: Normal Argus Users: The standard everyday Argus user. Barely above the
+        geek, but just enough not to be grouped in with them. Not anti-social,
+        and moderately cool.
+ 
+ 10.07: Wanna-be Hackers: These people are the ones who pretend to be these
+        wicked hackers and how they've done all this awesome stuff with
+        computers. Ninety percent of these people don't know anything, and
+        those that do are intolerable. /f at all costs. They often talk about
+        GNU and have no involvement in or with it.
+ 
+ 10.08: People who take Argus as a Total Joke: Usually these people have a
+        'real life' besides Argus and are just into computers. They take
+        everything that's done on Argus as a giant joke, and are jokes
+        themselves. Sometimes if they're ragging on someone you hate too, they
+        can be fun. Otherwise, they provide just more annoying sKKKroll.
+ 
+ 10.09: Wanna-be Warez/Phreakers/Anarchists: Basically like the Wanna-be
+        Hackers, only, these people talk about codez and warezZZ and all the
+        other things they want to have. These are the people that start up
+        boards for two weeks just for the ego boost, or talk about kodeZz they
+        downloaded off of CompuServe. (See 2.00 for more)
+ 
+ 10.10: Transvestites: As we all know, 93.6% of all Argus users are male.
+        However, some of these males have taken it upon themselves to mislead
+        others about their sexuality, thus sating some subconscious need of
+        letting out that woman trapped inside. The exact numbers of these
+        users has not been confirmed, but they are a rarity. In the interest
+        of science, researchers of this took it upon themselves to pretend to
+        be female. With handles like the ones we had, it wasn't too convincing,
+        but the male sex gland has been known to conquer reason from time to
+        time. The results were shocking. We were caressed,  kissed, hugged,
+        sent whispers, chat requests, and other forms of pornucopia. We have
+        since changed our handles, all in the interest of science.
+ 
+ 10.11: NEROspawn: Typically keep to themselves, unless provoked by abusive
+        others. This breed are college-educated former D&D addicts who have
+        decided to come out of the closet and pretend they are on some medieval
+        quest. They equip themselves with padded swords, thus adding a
+        life-like realism to their role-playing. Some have elaborate costumes
+        and use such terminology as, "Come hither, that I may bask in the glow
+        of your beauty.". I was informed by Montfern that D&D and NERO (New
+        England Role-Playing Organization) have as much to do with each other
+        as "soccer and football". His analogy was so completely air-tight that
+        I had to rethink my own existence on the spot.
+ 
+ 10.12: Sysop Tellers: These are usually people whose ages range between two
+        and twelve. If you joke around with them or make a "Fake" (7.01) with
+        their name in it they immediatly go and report you to Sysop for
+        suspension. A typical exaple of this would be:
+ 
+        From Tazmanian: Mooo..
+        ***
+        From Atari: I like to play with my Joystick!      (Fake Message)
+        (Few laughs in here)
+        From Atari: I am gonna tell. You are a Jerk head... My Mommy saw that.
+        PAM!!! PAM!!! I got that in my Copy Buffer!!
+ 
+        Most of these people are incapable at laughing at themselves, or at
+        other people, and think that everyone thinks they really said it, which
+        is obviously just not the case.
+ 
+ 10.13: The Sensitive User: When the teleconferences get fairly hectic, one
+        must take it into his own hands and fire the /f-gun. This function
+        causes you to forget users whom you associate with useless scroll and
+        want to dispose of, thus making it easier to concentrate on persons
+        more conducive to your personality. I have done this a few times and
+        found it rather amusing that I get backlash from the forgotten user at
+        times. Forgetting a user is a privilege and a right. However some feel
+        that in forgetting them, you set yourself on a pedestal and consider
+        them unworthy to acknowledge, tolerate. (This is usually the case. It
+        seems logical to ignore people who annoy you. Not vice versa.) It gives
+        me a rather swelled head when people I have not forgotten send me
+        messages like:
+ 
+        "From Cliffslave: Clifford wants to know why you forgot him."
+ 
+        I try to be tactful, but how to deal with someone who takes him/herself
+        a tad too seriously? /f him and be done with it. When or if Argus
+        implement permanent /f-lists, it'll be a godsend.
+ 
+        One remedy I have found that suits my needs is the "bickering lovers"
+        ploy. Using this practice, it is announced to the entire teleconference
+        that I have tried to ignore the forgotten user for reasons of
+        infidelity. See example below:
+ 
+        "From Forgetful: Clifford, just stop pestering me. You know when I
+        caught you cheating on me with the mailman, that was the last
+        straw."
+ 
+        From hence forward, the forgotten user will most usually stop with
+        his/her trite complaints about being ignored, and plea for
+        anonymity. Using the /s function, I have seen these folk become
+        reclusive and sulk in their own private channels, thus becoming
+        veritable hermits in the Space Age.
+ 
+ 10.14: Vampyres: Yes, not a typo. Vampyres. People who have a penchant for
+        the blood-lust online but turn out to be pale eccentrics wearing Bela
+        Lugosi hand-me-downs. They meet in real-life and squabble over which
+        horror movie is best, which line came from which movie, who was the
+        best Dracula, and when the next Anne Rice book is coming out. >From the
+        lack of activity in the SIG it appears that the users burnout from the
+        tedium and mutate into NEROspawn, wearing padded incisors instead of
+        swords. One featured Vampyre is Anisette, who should be noteworthy of
+        individual acclaim.
+ 
+ 10.15: ShinyHappy Users: Some Argus-folk meet outside the BBS's sacred
+        halls and actually interact with one another on a daily basis. They
+        become familiar with one another and 'forget' their friend's handle
+        and call them by their real name :
+ 
+        Bloorf just joined this channel!
+        :***
+        From Conehead: Hey! Tim! The Timster! The Timmeister!
+        :***
+        From Bloorf: Wow! Ernie! Hey Ernie, how are you?!?
+ 
+        This puzzles other users as having a handle allows you to forget
+        yourself for a short time while online, and be someone else. It has
+        been found that these ShinyHappy Users _do_ call each other by their
+        handles while out on the town. Having a nickname is one thing, but
+        being called "Bloorf" and accepting that as your name obviously
+        shows a lack of good judgment.
+ 
+ 10.16: Countdown Users: There are three categories of what can only be
+        identified as "Countdown Users". These are users who seem to have this
+        primal urge for users to scream out their lust-crazed passion for them
+        as they make their exit, while counting down furiously.
+ 
+            10.16a: Users who macro-countdown: This first breed merely stores
+                    a macro which counts them down to their departure. Annoying
+                    scroll is created, but other than that, it's harmless.
+ 
+            10.16b: Hand-counters: These users countdown by hand, then proceed
+                    (as if it was original) to go to "0", then "-1" or ".25" as
+                    if no one had ever done it before. Probably the type that
+                    laugh at their own jokes all the time.
+ 
+            10.16c: Hand-counters who don't leave: This ugly breed can only be
+                    described with the word "loser". They sit around, counting
+                    down by hand, then proceed to go into negatives, then
+                    announce "Just kidding" or "Wait! I don't have to go!"
+ 
+11.00: Argus Parties: This is one of the funniest Argus common topics, only
+       because it is so pathetic to watch it scroll by. Basically, the Argus
+       party animals crawl out of their holes to logon for the following
+       events, leaving miles of scroll and creating havok.
+ 
+ 11.01: Argus Parties/Geek Meets/Gatherings: This is usually the most calm of
+        the three, featuring only occasional macros, advertising the next geek
+        meet. Because it involves other Argus users, unlike the other two, I
+        think this makes users more concerned that if they act like complete
+        dips, someone will beat the living crap out of them.
+ 
+             11.01a: Main topic of scroll conversation the week before Argus
+                     brunch "Who's going to the brunch."  Main topic the week
+                     after the Brunch is, "Were you at the brunch?"
+ 
+ 11.02: Vacation: This one tends to be painfully rowdy, where users logon just
+        to tell you it's vacation time, and it's time to party. (Oh God) For
+        example:
+ 
+        From Nintendo: VAAAAAAAAAAAACATION! TIME TO PARTY! HAHAHAHAHAHA PARTY
+        ***
+        From Nintendo: VAAAAAAAAAAAACATION! TIME TO PARTY! HAHAHAHAHAHA PARTY
+        ***
+        From Nintendo: VAAAAAAAAAAAACATION! TIME TO PARTY! HAHAHAHAHAHA PARTY
+        ***
+        From Nintendo: VAAAAAAAAAAAACATION! TIME TO PARTY! HAHAHAHAHAHA PARTY
+        ***
+        From Nintendo: VAAAAAAAAAAAACATION! TIME TO PARTY! HAHAHAHAHAHA PARTY
+ 
+                     (Abbreviated for space-saving measures.)
+           (Imagine message x95 to get full impact of annoyance-factor.)
+ 
+ 11.03: End of School or Summertime: This one is only more settled than the
+        above because many of the more rowdy users have already left for the
+        summer. The ironic thing about these end of school or summer ones is
+        that all the Argus party animals figure out just how little of a life
+        they have, and how they've nothing to do but sit around and be bored
+        until vacation is over.
+ 
+ 
+12.00: What produces most of the Animal House Scroll: "Hi", "Bye" and "Re".
+       There really are no sub topics for this one. Anyone who's ever called
+       has experienced the fact that 50% of Argus scroll is "Hi", "Bye", "Re",
+       or people waving to one another. Some users arrive quietly, tiptoeing
+       into the channel amidst the scroll, so they wont be noticed. Others
+       create the scroll with a grand entry.
+ 
+USERS TO WATCH FOR: Users with maximum scroll abilities are Sprite, Ladyhawke
+                    and Irish, usually from sexually frustrated males who are
+                    looking for a "hot date". A usual hello to one of the
+                    previous three looks like:
+ 
+       From Richie: Heya beautiful, would you like to go out for a romantic
+       walk in the park with me where we can feed the birds and watch the sun
+       go down in the glorious dusk sky together, just you and me?
+ 
+-------------------------------------------------------------------------------
+Argus "Lingo": For a new user, Argus slang can be quite cumbersome and
+confusing. Here's a list (alphabetized, of course) of common Argus slang, and
+smilie faces, also their attempted meanings. Thanks to whoever wrote the smilie
+dictionary. I placed it in here with some modifications, although it's much
+like the original.
+ 
+Slang       Means in English
+----------- -------------------------------------------------------------------
+afk         Away from keyboard
+bak         Back at keyboard
+bbiab       Be back in a bit
+bbiaf       Be back in a few
+bbl         Be back later
+brb         Be right back
+imho        In my humble opinion
+lol         Laughing out loud
+oic         Oh, I see
+re          Hi again.
+rofl        Rolling on the floor laughing
+roflmao     Rolling on the floor laughing my ass off
+:-)         Your basic smilie. This smilie is used to inflect a sarcastic or
+            joking statement since we can't hear voice inflection.
+;-)         Winky smilie. User just made a flirtatious and/or sarcastic remark.
+            More of a "don't hit me for what I just said" smilie.
+:-(         Frowning smilie. User did not like that last statement or is upset
+            or depressed about something.
+:-I         Indifferent smilie. Better than a Frowning smilie but not quite as
+            good as a happy smilie
+:->         User just made a really biting sarcastic remark. Worse than a :-).
+>:->        User just made a really devilish remark.
+>;->        Winky and devil combined. A very lewd remark was just made.
+(-:         User is left handed
+%-)         User has been staring at a green screen for 15 hours straight
+:*)         User is drunk
+[:]         User is a robot
+8-)         User is wearing sunglasses
+B:-)        Sunglasses on head
+::-)        User wears normal glasses
+B-)         User wears horn-rimmed glasses
+8:-)        User is a little girl
+:-)-8       User is a Big girl
+:-{)        User has a mustache
+:-{}        User wears lipstick
+{:-)        User wears a toupee
+}:-(        Toupee in an updraft
+:-[         User is a Vampire
+:-C         User is really bummed
+:-D         User is laughing (at you!)
+:-E         Bucktoothed vampire
+:-F         Bucktoothed vampire with one tooth missing
+:-O         Uh oh!
+:-P         User is sticking tongue out at you, nyahhhh!
+:-Q         User is a smoker
+:-S         User just made an incoherent statement
+:-X         User's lips are sealed
+:-7         User just made a wry statement
+:-9         User is licking his/her lips
+:-@         User is screaming
+:-#         User wears braces
+:-&         User is tongue tied.
+:-*         User just ate something sour, User is kissing you
+:-)~        User drools
+:-~)        User has a cold
+:'-(        User is crying
+:'-)        User is so happy, she/he/it is crying
+:^)         User has a broken nose
+:v)         User has a broken nose, but it's the other way
+:<)         User is from an Ivy League School
+=:-)        User is a hosehead
+-:-)        User is a punk rocker
+-:-(        (real punk rockers don't smile)
+:=)         User has two noses
++-:-)       User is the Pope or holds some other religious office
+`:-)        User shaved one of his eyebrows off this morning
+,:-)        User shaved the other of his eyebrows off this morning
+|-I         User is asleep
+|-O         User is yawning/snoring
+:-?         User smokes a pipe
+O-)         Megaton Man On Patrol!  (or else, user is a scuba diver)
+O :-)       User is an angel (at heart, at least)
+<|-)        User is Chinese
+<|-(        User is Chinese and doesn't like these kind of jokes
+:-/         User is skeptical
+C=:-)       User is a chef
+@=          User is pro-nuclear war
+(8-o        It's Mr. Bill!
+*:o)        And Bozo the Clown!
+3:]         Pet smilie
+3:[         Mean Pet smilie
+E-:-)       User is a Ham radio operator
+%-6         User is braindead
+[:-)        User is wearing a walkman
+(:I         User is an egghead
+<:-I        User is a dunce
+@:-)        User is wearing a turban
+:-0         No Yelling!  (Quiet Lab)
+:-:         Mutant Smilie
+.-)         User only has one eye
+,-)         Ditto...but he's winking
+X-(         User just died
+8 :-)       User is a wizard
+C=}>;*{))   Mega-Smilie... A drunk, devilish chef with a toupee in an updraft,
+                           a mustache, and a double chin
+ 
+-------------------------------------------------------------------------------
+ 
+             QUICK HOT-CHAT REFERENCE CARD! CLIP 'N SAVE!
+ 
+---------------------------------8<--(cut here)--------------------------------
+ 
+If caught in chat with a horny male you do not intend to hot-chat with,
+you have a couple of options:
+ 
+o  Chat-war him. It's effective, and usually gets the idea across.
+ 
+o  Make a macro saying "Faster! Faster! Ohhh..Harder baby!". It will
+   usually fool the average hot-chatter, and he'll get off on it.
+ 
+o  Spout nonsense, it ussually makes them mad, but then, you don't
+   really care, do you? Example: "Wow. Moon, cow, dog. Everything
+   I do I do it for youuuu.....abcdefghijklmnopqrstuvwxyz"
+ 
+o  Just tell them off. X, then while in the Animal House make general
+   announcements out loud to them. "You pervert! I don't want to
+   hot chat!! You're sick you know <insert name>" If they have any
+   ounce of dignity, they'll be too embarassed to pursue.
+ 
+o  Accidental plagues of line noise that can be caused by macros, lifting the
+   phone, or jingling keys near the modem. This often frustrates the male
+   and makes him move onto his next victim for maybe a faster kill.
+ 
+o  Make jokes as to his sexual powers, like: "Wow, I haven't seen one that
+   small since I gave birth." Usually quick and efficient.
+ 
+ 
+_______________________________________________________________________________
+ 
+             Meemocity Neverending      --      meem@gnu.ai.mit.edu
+_______________________________________________________________________________
